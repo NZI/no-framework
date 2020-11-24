@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "ESNEXT",
+        "module": "commonjs",
+        "lib": [
+            "ESNEXT",
+            "es5",
+            "es6",
+            "dom"
+        ],
+        "allowJs": true,
+        "jsx": "react",
+        "sourceMap": true,
+        "rootDir": "./client",
+        "downlevelIteration": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "esModuleInterop": true,
+    }
+}
